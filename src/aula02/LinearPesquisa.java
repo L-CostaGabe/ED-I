@@ -1,3 +1,6 @@
+
+package aula02;
+
 public class LinearPesquisa {
 
     public static void main(String[] args) {

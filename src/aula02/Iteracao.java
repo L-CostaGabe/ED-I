@@ -1,3 +1,4 @@
+package aula02;
 public class Iteracao {
     
     static int iteracao = 0;

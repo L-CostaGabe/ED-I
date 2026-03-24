@@ -1,3 +1,5 @@
+package aula02;
+
 public class TSPComPoda {
 
     static int N = 4;
